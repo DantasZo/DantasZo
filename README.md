@@ -12,6 +12,6 @@
 <div display="inline-block">
  <p align="left"> 🤖 Atualmente, realizando o bootcamp FullStack Java ☕</p>
  <p align="left"> 🌎 Pronomes: Ele/Dele/He</p>
- <p align="left"> 🌑 Obsecado por Biologia, Ciência e tecnologia no geral!</p>
+ <p align="left"> 🌑 Obcecado por Biologia, Ciência e tecnologia no geral!</p>
  <p align="left"> 🧪 Sou completamente ecletico e gosto de conversar sobre absolutamente tudo, me considero extremamente sociável !</p>
 </div>
