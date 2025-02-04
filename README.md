@@ -1,6 +1,6 @@
 ### Um pouco sobre mim !
 
--Tenho 22 anos, moro em Osasco/SP. Sou alguém que adora aprender, apaixonado por jogos, filmes, programação e café. 
+-Tenho 23 anos, moro em Osasco/SP. Sou alguém que adora aprender, apaixonado por jogos, filmes, programação e café. 
 
 -Desenvolvedor a +1 ano, orientado ao backend, atualmente trabalhando na Celcoin(Fintech Brasileira), concluindo a faculdade de ADS.
 
