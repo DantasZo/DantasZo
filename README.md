@@ -2,7 +2,7 @@
 
 -Tenho 23 anos, moro em Osasco/SP. Sou alguém que adora aprender, apaixonado por jogos, filmes, programação e café. 
 
--Desenvolvedor a +4 anos, orientado ao backend, atualmente trabalhando na Celcoin(Fintech Brasileira), Graduado em ADS, cursando uma pós graduação em Arquitetura de Sistemas .NET com Azure
+-Desenvolvedor a +4 anos, orientado ao backend, atualmente trabalhando na Avanade (Empresa de consultoria), Graduado em ADS, cursando uma pós graduação em Arquitetura de Sistemas .NET com Azure
 
 <p align="center">
   <img src="https://i.imgur.com/DnUrCmL.gif">
